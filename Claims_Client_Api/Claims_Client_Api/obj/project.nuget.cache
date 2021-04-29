@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQkFVXL/KkeAQp35vAAXHv0vUXY26niqBXYwdW02OAQkE3ZLdVi7B+d+98H9ltvE5mKKjVGf5IH2c+OLtBSzow==",
+  "success": true,
+  "projectFilePath": "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/Claims_Client_Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/bh14859/.nuget/packages/csvhelper/27.0.2/csvhelper.27.0.2.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

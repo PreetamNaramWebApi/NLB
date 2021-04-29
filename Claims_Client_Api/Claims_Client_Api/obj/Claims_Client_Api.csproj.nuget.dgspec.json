@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/Claims_Client_Api.csproj": {}
+  },
+  "projects": {
+    "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/Claims_Client_Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/Claims_Client_Api.csproj",
+        "projectName": "Claims_Client_Api",
+        "projectPath": "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/Claims_Client_Api.csproj",
+        "packagesPath": "/Users/bh14859/.nuget/packages/",
+        "outputPath": "/Users/bh14859/Projects/Claims_Client_Api/Claims_Client_Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bh14859/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.nuget.org/v1/FeedService.svc/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
